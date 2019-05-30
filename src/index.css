@@ -11,3 +11,54 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+/* .personHandler
+{
+  width: 100%;
+  text-align: center;
+} */
+
+.Nav
+{
+  margin-bottom: 50px;
+}
+
+.NavHome
+{
+  color: white;
+  text-decoration: none;
+}
+
+.Link
+{
+  color: black;
+  text-decoration: none;
+}
+
+.Link:hover
+{
+  text-decoration: underline;
+}
+
+.search
+{
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.DescriptionGrid
+{
+  display: flex;
+  min-height: 79vh;
+}
+
+.Description, .DescriptionTitle
+{
+  text-align: center;
+}
+
+.Footer 
+{
+  bottom: 0;
+}
